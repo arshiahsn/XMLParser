@@ -1,0 +1,36 @@
+<objects>
+    <object class="Car" id="1">
+        <field name="emission">10</field>
+        <field name="topSpeed">200</field>
+        <field name="price">25000</field>
+        <field name="transmission">automatic</field>
+    </object>
+    <object class="Motorcyle" id="2">
+        <field name="topSpeed">160</field>
+        <field name="emission">4</field>
+        <field name="price">5000</field>
+    </object>
+    <object class="Car" id="2">
+        <field name="topSpeed">180</field>
+        <field name="emission">13</field>
+        <field name="price">15000</field>
+        <field name="transmission">manual</field>
+    </object>
+    <object class="Car" id="3">
+        <field name="topSpeed">260</field>
+        <field name="emission">5</field>
+        <field name="price">55000</field>
+        <field name="transmission">automatic</field>
+    </object>
+    <object class="Motorcyle" id="1">
+        <field name="topSpeed">220</field>
+        <field name="emission">3</field>
+        <field name="price">8000</field>
+    </object>
+    <object class="Bike" id="1">
+        <field name="speeds">21</field>
+        <field name="suspension">front</field>
+        <field name="price">250</field>
+    </object>
+
+</objects>
