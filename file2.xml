@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+  <employee id="1">
+    <firstname>Jon</firstname>
+    <lastname>Snow</lastname>
+    <nickname>The White Wolf</nickname>
+    <perk>Knows nothing</perk>
+    <salary>100</salary>
+  </employee>
+  <employee id="2">
+    <firstname>Tyrion</firstname>
+    <lastname>Lannister</lastname>
+    <nickname>The dwarf</nickname>
+    <perk>Drinks and knows things</perk>
+    <salary>100000</salary>
+  </employee>
+  <employee id="3">
+    <firstname>Daenerys</firstname>
+    <lastname>Targaryen</lastname>
+    <nickname>Stormborn</nickname>
+    <perk>Unburnt</perk>
+    <salary>1000</salary>
+  </employee>
+</company>
+
