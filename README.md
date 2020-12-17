@@ -1,2 +1,2 @@
 # XMLParser
-A simple XML Parser using Java reflection. This piece of code converts an XML file to Java objects.
+A simple XML Parser using Java reflection. This piece of code creates Java Classes out of XML files and converts them to objects of that class.
